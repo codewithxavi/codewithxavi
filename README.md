@@ -10,7 +10,7 @@ Si quieres contactar conmigo, te sugiero:
 - 📹 Mi canal de [YouTube]()
 - 🌄 Mi perfil de [Instagram]()
 - 🐦 Mi perfil de [Twitter]()
-- 🎓 Mi perfil de [Linkedin]()
+- 🎓 Mi perfil de [Linkedin](https://www.linkedin.com/in/javier-adri%C3%A1n-d%C3%ADez-34362b130/)
 
 
 <pre>
