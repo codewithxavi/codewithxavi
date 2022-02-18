@@ -11,3 +11,25 @@ Si quieres contactar conmigo, te sugiero:
 - 🌄 Mi perfil de [Instagram]()
 - 🐦 Mi perfil de [Twitter]()
 - 🎓 Mi perfil de [Linkedin]()
+
+
+<pre>
+    .-~~^-.
+    .'  O    \
+   (_____,    \
+    `----.     \
+          \     \
+           \     \
+            \     `.             _ _
+             \       ~- _ _ - ~       ~ - .
+              \                              ~-.
+               \                                `.
+                \    /               /       \    \
+                 `. |         }     |         }    \
+                   `|        /      |        /       \
+                    |       /       |       /          \
+                    |      /`- _ _ _|      /.- ~ ^-.     \
+                    |     /         |     /          `.    \
+                    |     |         |     |             -.   ` . _ _ _ _ _ _
+                    |_____|         |_____|                ~ . _ _ _ _ _ _ _
+</pre>
