@@ -1,5 +1,5 @@
 ### Hola 👋, mi nombre es Javier Adrián Díez 🔥
-### Soy [especialista en CSS y apasionado de JS]
+### Soy especialista en CSS y apasionado de JS
 
 Me dedico a aprender todo lo relacionado con el desarrollo web moderno intensamente las competencias técnicas necesarias, sin olvidar las habilidades personales o soft skills.
 
