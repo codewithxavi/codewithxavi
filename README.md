@@ -1,16 +1,17 @@
-### Hola 👋, mi nombre es Javier Adrián Díez 🔥
-### Soy especialista en CSS y apasionado de JS
+### 💻 About Me
+* Hola 👋, mi nombre es Javier Adrián Díez 🔥
+* Soy un desarrollador web de Barcelona
+* Me apasiona el desarrollo de software y disfruto aprendiendo cosas nuevas.
+* Soy especialista en CSS y apasionado de JS
 
-💻 About Me
-Hola 👋, mi nombre es Javier Adrián Díez 🔥
-Soy un desarrollador web de Barcelona
-Me apasiona el desarrollo de software y disfruto aprendiendo cosas nuevas.
+
 
 
 
 Me dedico a aprender todo lo relacionado con el desarrollo web moderno intensamente las competencias técnicas necesarias, sin olvidar las habilidades personales o soft skills.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavi-coder&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavi-coder&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 Si quieres contactar conmigo, te sugiero:
 - 💻 Mi [página Web]()
