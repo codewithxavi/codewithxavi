@@ -7,8 +7,8 @@
 
 Me dedico a aprender todo lo relacionado con el desarrollo web moderno intensamente las competencias técnicas necesarias, sin olvidar las habilidades personales o soft skills.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavi-coder&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavi-coder&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithxavi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithxavi&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 Si quieres contactar conmigo, te sugiero:
 - 💻 Mi [página Web]()
