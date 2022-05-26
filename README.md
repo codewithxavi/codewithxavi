@@ -5,9 +5,6 @@
 * Soy especialista en CSS y apasionado de JS
 
 
-
-
-
 Me dedico a aprender todo lo relacionado con el desarrollo web moderno intensamente las competencias técnicas necesarias, sin olvidar las habilidades personales o soft skills.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavi-coder&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
