@@ -1,5 +1,5 @@
 ### 💻 Sobre mi
-* Hola 👋, mi nombre es Javier Adrián Díez 🔥
+* Hola 👋, mi nombre es Javier Adrián 🔥
 * Soy un desarrollador web de Barcelona
 * Me apasiona el desarrollo de software y disfruto aprendiendo cosas nuevas.
 * Soy especialista en CSS y apasionado de JS
