@@ -1,22 +1,16 @@
-<a href="https://app.daily.dev/codewithxavi"><img src="https://api.daily.dev/devcards/750940add543439982ffae439a9f49db.png?r=pdf" width="400" alt="codewithxavi's Dev Card"/></a>
-
 ### 💻 Sobre mi
 * Hola 👋, mi nombre es Javier Adrián 🔥
 * Soy un desarrollador web de Barcelona
 * Me apasiona el desarrollo de software y disfruto aprendiendo cosas nuevas.
 * Soy especialista en CSS y apasionado de JS
 
-
 Me dedico a aprender todo lo relacionado con el desarrollo web moderno intensamente las competencias técnicas necesarias, sin olvidar las habilidades personales o soft skills.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithxavi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithxavi&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
 Si quieres contactar conmigo, te sugiero:
-- 💻 Mi [página Web]()
-- 📹 Mi canal de [YouTube]()
+- 💻 Mi [página Web](https://codewithxavi.vercel.app)
+- 📹 Mi canal de [YouTube](https://youtube.com/codewithxavi)
 - 🌄 Mi perfil de [Instagram]()
-- 🐦 Mi perfil de [Twitter]()
+- 🐦 Mi perfil de [Twitter](https://twitter.com/codewithxavi)
 - 🎓 Mi perfil de [Linkedin](https://www.linkedin.com/in/javier-adri%C3%A1n-d%C3%ADez-34362b130/)
 
 ## Connect with me
