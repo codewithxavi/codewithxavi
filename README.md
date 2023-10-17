@@ -13,9 +13,8 @@ Si quieres contactar conmigo, te sugiero:
 - 🎓 Mi perfil de [Linkedin](https://www.linkedin.com/in/javier-adri%C3%A1n-d%C3%ADez-34362b130/)
 
 ## Connect with me
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/)
-[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=ff0100" />](https://youtube.com/c/)
-[<img align="left" alt="twitch" src="https://img.shields.io/badge/twitch-%231DA1F2.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=aa6fff" />](https://twitch.tv/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/codewithxavi)
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=ff0100" />](https://youtube.com/@codewithxavi)
 <br>
 
 ## Expertise
