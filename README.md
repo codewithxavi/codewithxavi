@@ -9,7 +9,6 @@ Me dedico a aprender todo lo relacionado con el desarrollo web moderno intensame
 Si quieres contactar conmigo, te sugiero:
 - 💻 Mi [página Web](https://codewithxavi.vercel.app)
 - 📹 Mi canal de [YouTube](https://youtube.com/codewithxavi)
-- 🌄 Mi perfil de [Instagram]()
 - 🐦 Mi perfil de [Twitter](https://twitter.com/codewithxavi)
 - 🎓 Mi perfil de [Linkedin](https://www.linkedin.com/in/javier-adri%C3%A1n-d%C3%ADez-34362b130/)
 
